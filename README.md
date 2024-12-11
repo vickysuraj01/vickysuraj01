@@ -6,8 +6,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: D-1 to 1-D ...
 
-### Hi, Suraj Gupta 👋
-
 Just another random programmer on the internet ;)
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tintedfireglass&layout=compact&langs_count=12&theme=dark&hide_border=true&hide_title=false)](https://github.com/Tintedfireglass)
